@@ -1,2 +1,2 @@
 # generative-modeling-research
-Generative AI
+Generative AI models 
